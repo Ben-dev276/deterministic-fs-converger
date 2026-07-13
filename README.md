@@ -1,5 +1,5 @@
 # deterministic-fs-converger
-Deterministic FS Converger est un outil d'ingénierie système qui automatise le tri et le nettoyage de fichiers. Grâce à un algorithme de parcours en profondeur (DFS), il dissout les dossiers anarchiques, normalise les noms en snake_case et route chaque fichier de façon déterministe et idempotente vers son dossier idéal.
+Deterministic FS Converger est un outil d'ingénierie système qui automatise le tri et le nettoyage de fichiers. Grâce à un algorithme de parcours en profondeur (DFS), il dissout les dossiers anarchiques, normalise les noms en snake_case et route chaque fichier de façon déterministe et idempotente vers son dossier idéal (rig. mathéq + info).
 
 
 Précis : Utilisation de l'IA, afin d'améliorer mes différentes programmes (versions), [mon programme initial > "test"].
