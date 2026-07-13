@@ -12,7 +12,7 @@ Imaginez que votre ordinateur soit une chambre totalement en désordre. Ce progr
 3. **Normalise les noms** : Il renomme vos fichiers proprement selon la norme informatique `snake_case` (exemple : `Lettre_De_Motivation.pdf` devient `lettre_de_motivation.pdf`).
 4. **Range au bon endroit** : Chaque fichier est envoyé de manière **déterministe** (toujours la même logique) vers son dossier idéal (Vidéos, PDF, Code, etc.).
 
-> ⚙️ **Note de l'auteur :** Je suis actuellement développeur débutant-intermédiaire en Python (en cours d'apprentissage). J'ai utilisé l'IA pour améliorer mes différents programmes au fil des versions, en partant de mon tout premier script initial nommé `test` folder.
+> ⚙️ **Note de l'auteur :** Je suis actuellement développeur débutant-intermédiaire en Python (en cours d'apprentissage). J'ai utilisé l'IA pour améliorer mes différents programmes au fil des versions, en partant de mon tout premier script initial nommé `test_1.py` in "legacy" folder.
 
 ---
 
@@ -35,10 +35,10 @@ Le script fonctionne comme un moteur de règles :
 
 Si vous êtes curieux et que vous voulez voir le script en action, vous pouvez faire des tests **en ayant l'entière responsabilité de vos fichiers**. 
 
-Pour cela, utilisez le dossier **`test`** inclus dans ce projet :
-1. Allez dans le dossier `test`.
+Pour cela, utilisez le dossier **`legacy`** inclus dans ce projet :
+1. Allez dans le dossier `legacy`.
 2. Placez-y de faux fichiers en désordre (des faux `.pdf`, `.mp4`, `.txt`).
-3. Lancez le script de test pour observer comment l'algorithme nettoie et structure le dossier de manière chirurgicale avec des underscores `_`.
+3. Lancez le script de test_1.py ou test_2.py pour observer comment l'algorithme nettoie et structure le dossier de manière chirurgicale avec des underscores `_`.
 
 ---
 🔬 *Fait avec rigueur par un passionné de maths et d'info. Codez prudemment !*
